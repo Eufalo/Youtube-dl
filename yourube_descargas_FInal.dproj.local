@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/22 11:49:09.000.923,=\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/22 12:50:57.000.374,\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Unit1.pas=\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Download.pas</Transaction>
+    <Transaction>2018/01/22 12:50:57.000.374,\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Unit1.dfm=\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Download.dfm</Transaction>
+    <Transaction>2018/01/22 12:52:13.000.937,\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Project1.dproj=\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/01/22 13:34:02.000.513,\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Project1.dproj=\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/01/26 13:48:51.000.875,\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Mejorar.dproj=\\AB000FS01\001_Data$\21535185\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/01/29 17:39:00.478,\\AB000FS01\001_Data$\21536951\Documents\Embarcadero\Studio\Projects\yourube_descargas_FInal.dproj=\\AB000FS01\001_Data$\21536951\Documents\Embarcadero\Studio\Projects\Mejorar.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
